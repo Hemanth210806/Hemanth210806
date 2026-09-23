@@ -1,3 +1,6 @@
+![HEMANTH K.M](https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:063970,50:0077B6,75:00BFA6,100:22C55E&height=230&section=header&text=HEMANTH%20K.M&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+
 # 💫 About Me:
  - 💻 Building modern web applications<br>- 🤖 Exploring AI & Machine Learning<br>- 🐍 Building projects with Python & Django<br>- 🏆 Participating in hackathons and SIH<br>- 🚀 Turning real-world problems into software solutions<br>- 🖥️ Exploring operating systems and computer technologies<br>- 🤖 Building AI solutions for real-world problems <br>- 🧩 Solving DSA challenges 
 
