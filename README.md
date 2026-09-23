@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
- - 💻 Building modern web applications<br>- 🤖 Exploring AI & Machine Learning<br>- 🐍 Building projects with Python & Django<br>- 🏆 Participating in hackathons and SIH<br>- 🚀 Turning real-world problems into software solutions<br>- 🖥️ Exploring operating systems and computer technologies<br>- 🤖 Building AI solutions for real-world problems <br>- 🧩 Solving DSA challenges 
+ - 💻 Building modern web applications<br>- 🤖 Exploring AI & Machine Learning<br>- 🐍 Building projects with Python & Django<br>- 🏆 Participating in hackathons and SIH<br>- 🚀 Turning real-world problems into software solutions<br>- 🖥️ Exploring operating systems and computer technologies<br>- 🤖 Building AI solutions for real-world problems <br>- 🧩 Solving DSA challenges<br>- 9️⃣ Scoring Over Nine SGPA Always
 
 
 ## 🌐 Socials:
